@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alex_\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\zolot\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\lab4\\lab4.2\\lab4.2\\lab4.2\\lab4.2.csproj",
+      "projectUniqueName": "C:\\Users\\zolot\\OneDrive\\Рабочий стол\\l4.2sasha\\lab4.2\\lab4.2\\lab4.2.csproj",
       "projectName": "lab4.2",
-      "projectPath": "D:\\lab4\\lab4.2\\lab4.2\\lab4.2\\lab4.2.csproj",
-      "packagesPath": "C:\\Users\\alex_\\.nuget\\packages\\",
-      "outputPath": "D:\\lab4\\lab4.2\\lab4.2\\lab4.2\\obj\\",
+      "projectPath": "C:\\Users\\zolot\\OneDrive\\Рабочий стол\\l4.2sasha\\lab4.2\\lab4.2\\lab4.2.csproj",
+      "packagesPath": "C:\\Users\\zolot\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zolot\\OneDrive\\Рабочий стол\\l4.2sasha\\lab4.2\\lab4.2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\alex_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\zolot\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
