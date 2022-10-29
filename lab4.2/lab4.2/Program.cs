@@ -9,6 +9,7 @@ namespace calc
             void minus(int a, int b)
             {
                 Console.WriteLine(a - b);
+                Console.WriteLine("");
             }
         }
     }
