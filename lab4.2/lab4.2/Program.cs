@@ -22,6 +22,7 @@ namespace calc
                 case 4:
                     del(A, B);
                     break;
+
             }
         }
     }
